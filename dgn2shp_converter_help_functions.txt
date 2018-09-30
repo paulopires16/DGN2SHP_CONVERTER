@@ -1,0 +1,15 @@
+help function from dgn2shp_converter
+
+Func: dgn2shp 
+Desc: convecao de um ou varios ficheiros DGN em um ou varios ficheiros SHP 
+Parm: inputFile outputDir mappingFile coordinateSystem options removeCadAttributs 
+
+Func: dgn2shpform 
+Desc: convecao de um ou varios ficheiros DGN em um ou varios ficheiros SHP 
+Parm: parametros cedidos por selecao do utilizador 
+
+
+
+...Done!
+
+Tempo de execucao: 0:00:00.122000
