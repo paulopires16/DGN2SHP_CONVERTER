@@ -4,7 +4,7 @@ Func: dgn2shp
 Desc: convecao de um ou varios ficheiros DGN em um ou varios ficheiros SHP 
 Parm: inputFile outputDir mappingFile coordinateSystem options removeCadAttributs 
 
-Func: dgn2shpform 
+Func: dgn2shpForm 
 Desc: convecao de um ou varios ficheiros DGN em um ou varios ficheiros SHP 
 Parm: parametros cedidos por selecao do utilizador 
 
