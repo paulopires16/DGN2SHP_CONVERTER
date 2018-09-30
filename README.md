@@ -1,5 +1,5 @@
 # DGN2SHP_CONVERTER
-Conversão de tecnologias: CAD (Computer-Aided Design) - ficheiros .DGN em GIS (Geographic Information System) - ficheiros .SHP
+Conversão de tecnologias: CAD (Computer-Aided Design), ficheiros .DGN em GIS (Geographic Information System), ficheiros .SHP
 
 # Exemplo de chamada da APP 
 ("Command Line" vs "Window Form"):
